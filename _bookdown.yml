@@ -1,0 +1,18 @@
+delete_merged_file: true
+rmd_files: [
+  "index.Rmd",
+  "Lab_Manual.Rmd"
+]
+output_dir: "docs"
+new_session: yes
+output: 
+  bookdown::gitbook:
+    config:
+      sharing:
+        github: yes
+        twitter: no
+        facebook: no
+ #   theme: paper
+# language:
+#   ui:
+#     chapter_name: "Chapter "
