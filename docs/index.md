@@ -1,5 +1,6 @@
 --- 
 title: "HEDCO Institute for Evidence-Based Educational Practice Lab Manual"
+subtitle: "Version 1, April 2025"
 bookdown: 
   affiliation: "HEDCO Institute for Evidence-Based Educational Practice, College of Education, University of Oregon"
 site: bookdown::bookdown_site
@@ -30,6 +31,8 @@ members including:
 -   Joe Golfen
 -   Dr. Sean Grant
 -   Dr. Shaina Trevino
+-   Katarzyna Steinka-Fry
+-   Dr. Emily Tanner-Smith
 
 To make this manual, we read several other lab manuals and drew on some
 of their structure and content, including:
